@@ -1,7 +1,7 @@
 package zio.flow
 
-import java.time.temporal.{ ChronoUnit, TemporalUnit }
 import java.time.{ Duration, Instant }
+import java.time.temporal.{ ChronoUnit, TemporalUnit }
 
 import scala.language.implicitConversions
 
